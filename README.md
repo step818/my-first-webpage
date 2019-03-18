@@ -20,7 +20,7 @@ _Cumbersome and ugly, we'll be embarrassed by it in 2 weeks_
 
 ## Support and contact details
 
-_tessa.sullivan@gmail.com_
+_tessa.sullivan@gmail.com, stephent818@gmail.com_
 
 ## Technologies Used
 
