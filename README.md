@@ -27,5 +27,5 @@ _tessa.sullivan@gmail.com, stephent818@gmail.com_
 _HTML_
 
 ### License
-_Licensed under the GPL License_
-Copyright (c) 2019 _Stephen Trewick, Tessa Sullivan_
+*Licensed under the GPL License*
+Copyright (c) 2019 **_Stephen Trewick, Tessa Sullivan_**
